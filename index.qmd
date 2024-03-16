@@ -1,0 +1,114 @@
+---
+title: "  "
+---
+
+## **Personal Info**
+
+::: columns
+::: {.column width="40%"}
+![](/Users/xiaoyanhu/Downloads/Websitexhu41/Images/photoxh_9842.jpg){width="225"}
+:::
+
+::: {.column width="60%"}
+
+#### **Xiaoyan Hu**
+
+<div>
+
+Ph.D Candidate in Public Administration
+
+Department of Public Policy, Management, and Analytics
+
+College of Urban Planning and Public Affairs
+
+University of Illinois at Chicago
+
+xhu41\@uic.edu
+
+</div>
+:::
+:::
+
+\
+
+## **Education**
+
+PhD Candidate in Public Administration, August 2017 – Present, UIC
+
+Master of Public Administration, August 2015 – August 2017, UIC
+
+Bachelor of Arts in English, September 2012 – June 2016, Northeastern University, China
+
+\
+
+## **Publications** 
+
+#### Referred Journal:
+
+Hendrick, R., & Hu, X. (2020). Beyond Truth and Integrity in State Budgeting: Why State Governments Use Budget Balancing Maneuvers (or Gimmicks)?. Public Budgeting & Finance, 40(4), 104-127.
+
+#### Published Policy Analyses:
+
+Merriman, D., & Hu, X. (2021). Illinois’ Fiscal Challenge: Where are We Now and How do We Proceed?. Institute of Government and Public Affairs Research Paper, University of Illinois System, April 22.
+
+Merriman, D., Disher, M., Choi, F., & Hu, X. (2022). The Earth isn't Flat, and Neither is Illinois'-or Any Other State's-Income Tax. Institute of Government and Public Affairs Research Paper, University of Illinois System, April 25.
+
+Hu, X., Wilbur-Mujtaba, A., & Merriman, D. (2022). Why does Illinois' Unemployment Insurance Trust Fund Have a Large Deficit?. Institute of Government and Public Affairs Research Paper, University of Illinois System, August 18. 
+
+Wilbur-Mujtaba, A., Choi, F., Hu, X., & Merriman, D. (2024). Work from Home in Illinois: Who Can and Who Does?. Institute of Government and Public Affairs Research Paper, University of Illinois System, February 5.
+
+#### Manuscript in Progress:
+
+Survey Research Lab, including Hu, X. Using Experimental Vignettes to Study How Survey Methods and Findings Affect the Public’s Evaluation of Public Opinion Polls: Considering A Dual Process Approach. (Revise and Resubmit)
+
+\
+
+## **Teaching**
+
+Programming and Data Analysis for Public Policy I (Student Instructor)
+
+Urban Government I: Internal Environment (Teaching Assistant)
+
+Economics for Management and Policy (Teaching Assistant)
+
+State and Local Public Finance (Teaching Assistant)
+
+\
+
+## **Skills**
+
+Public budgeting and financial management
+
+Applied survey methodology skills: survey questionnaire design, implementation, and analysis; interpretation of survey results
+
+Statistical analyses: exploratory analyses, hypothesis testing, multivariate analyses, panel data, multilevel modeling, and various regressions
+
+Stata, R, and NVivo
+
+Microsoft Word, Excel, and PowerPoint
+
+Bilingual in Chinese and English
+
+\
+
+## **Professional Societies**
+Association for Budgeting and Financial Management (ABFM)
+
+World Social Science Association (WSSA)
+
+American Society for Public Administration (ASPA)
+
+Midwest Association for Public Opinion Research (MAPOR)
+
+\
+
+## **Awards**
+Badge on Data Science for Public Policy
+
+Carsey Scholar Recognition, 2022
+
+UIC Graduate Student Council Conference Award, AY 2021-2022
+
+The Ciccarone Public Finance Scholarship, AY 2020-2021 
+
+Certificates for attending the ICPSR workshops in: Panel Data Analysis, Multilevel Modeling, Introduction on Matrix Algebra, and Introduction to the R Statistical Computing Environment 
