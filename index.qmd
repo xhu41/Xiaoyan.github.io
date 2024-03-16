@@ -6,7 +6,7 @@ title: "  "
 
 ::: columns
 ::: {.column width="40%"}
-![](/Users/xiaoyanhu/Downloads/Websitexhu41/Images/photoxh_9842.jpg){width="225"}
+![](photoxh_9842.jpg){width="225"}
 :::
 
 ::: {.column width="60%"}
