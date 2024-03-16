@@ -10,7 +10,6 @@ title: "  "
 :::
 
 ::: {.column width="60%"}
-
 #### **Xiaoyan Hu**
 
 <div>
@@ -41,7 +40,7 @@ Bachelor of Arts in English, September 2012 – June 2016, Northeastern Universi
 
 \
 
-## **Publications** 
+## **Publications**
 
 #### Referred Journal:
 
@@ -53,7 +52,7 @@ Merriman, D., & Hu, X. (2021). Illinois’ Fiscal Challenge: Where are We Now an
 
 Merriman, D., Disher, M., Choi, F., & Hu, X. (2022). The Earth isn't Flat, and Neither is Illinois'-or Any Other State's-Income Tax. Institute of Government and Public Affairs Research Paper, University of Illinois System, April 25.
 
-Hu, X., Wilbur-Mujtaba, A., & Merriman, D. (2022). Why does Illinois' Unemployment Insurance Trust Fund Have a Large Deficit?. Institute of Government and Public Affairs Research Paper, University of Illinois System, August 18. 
+Hu, X., Wilbur-Mujtaba, A., & Merriman, D. (2022). Why does Illinois' Unemployment Insurance Trust Fund Have a Large Deficit?. Institute of Government and Public Affairs Research Paper, University of Illinois System, August 18.
 
 Wilbur-Mujtaba, A., Choi, F., Hu, X., & Merriman, D. (2024). Work from Home in Illinois: Who Can and Who Does?. Institute of Government and Public Affairs Research Paper, University of Illinois System, February 5.
 
@@ -92,6 +91,7 @@ Bilingual in Chinese and English
 \
 
 ## **Professional Societies**
+
 Association for Budgeting and Financial Management (ABFM)
 
 World Social Science Association (WSSA)
@@ -103,12 +103,13 @@ Midwest Association for Public Opinion Research (MAPOR)
 \
 
 ## **Awards**
+
 Badge on Data Science for Public Policy
 
 Carsey Scholar Recognition, 2022
 
 UIC Graduate Student Council Conference Award, AY 2021-2022
 
-The Ciccarone Public Finance Scholarship, AY 2020-2021 
+The Ciccarone Public Finance Scholarship, AY 2020-2021
 
-Certificates for attending the ICPSR workshops in: Panel Data Analysis, Multilevel Modeling, Introduction on Matrix Algebra, and Introduction to the R Statistical Computing Environment 
+Certificates for attending the ICPSR workshops in: Panel Data Analysis, Multilevel Modeling, Introduction on Matrix Algebra, and Introduction to the R Statistical Computing Environment
